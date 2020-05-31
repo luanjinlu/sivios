@@ -1,5 +1,5 @@
 ## sivios
-Similar Videos Search
+Similar Videos Search 相似视频搜索匹配
 
 ## 简介 
 该项目用于构造海量视频特征信息库，对海量视频进行实时相似查找，提供独立API服务。
